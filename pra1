@@ -1,4 +1,5 @@
 \documentclass{…}中…的意义
+the different between \ldots{} and …
     
 \documentclass{article}%指明所写源文档的类型？like class
     \author{Meomioo}
