@@ -1,2 +1,13 @@
 \documentclass{…}中…的意义
 the different between \ldots{} and …
+\documentclass{article}%指明所写源文档的类型？like class
+    \author{Meomioo}
+    \title{Practice}
+    \begin{document}    %开始文档主体
+    \maketitle  %日期
+    \tableofcontents    %目录4sections
+    \section{Some}
+        Small is beautiful.
+    \section{good}
+    \ldots{} and here it end.
+    \end{document}%结束文档主体
